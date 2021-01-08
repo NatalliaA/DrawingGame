@@ -1,4 +1,4 @@
-# DrawingGame
+# drawing-game-js
 Interactive application built with HTML Canvas, JavaScript and jQuery.
 
 <h4>Description</h4>
