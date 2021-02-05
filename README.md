@@ -1,5 +1,8 @@
 # drawing-game-js
-Interactive application built with HTML Canvas, JavaScript and jQuery.
+## Interactive application built with HTML Canvas, JavaScript and jQuery.
+
+### View Live
+<https://natalliaa.github.io/draw/index.html>
 
 <h4>Description</h4>
 <p>The main purpose of the project was to build an interactive application - Drawing Game. The game demonstrates programming with HTML Canvas, JavaScript and jQuery.</p>
